@@ -1,0 +1,10 @@
+Package: com.cgm616.notifyonrespring
+Name: NotifyOnRespring
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Vibrates device on respring.
+Maintainer: cgm616 <cgm616+cydia@gmail.com>
+Author: cgm616 <cgm616+cydia@gmail.com>
+Depiction: http://repo.graber-mitchell.com/depictions/?dep=com.cgm616.notifyonrespring
+Section: Tweaks
